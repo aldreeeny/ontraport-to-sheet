@@ -37,6 +37,3 @@ This Google Apps Script project automates the extraction, processing, and consol
 - **Never commit real API keys, App IDs, spreadsheet URLs, or BigQuery project IDs to version control.**
 - Use placeholders in code and supply credentials securely at runtime via script properties.
 
-## License
-
-MIT License
